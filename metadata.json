@@ -1,0 +1,8 @@
+{
+  "name": "KSIA Work HSE Office Safety Inspection",
+  "description": "Comprehensive Health, Safety, and Environment (HSE) digital inspection tool for King Salman International Airport. Features ISO 45001 \u0026 14001 compliant reporting, offline checklists, and automated safety audit exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
